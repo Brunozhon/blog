@@ -1,0 +1,8 @@
+{
+  "name":"blog",
+  "version":"1.0.0",
+  "description":"",
+  "dependencies":{
+    "Brunozhon.github.io":"~1.1.1"
+  }
+}
