@@ -2,7 +2,14 @@
   "name":"blog",
   "version":"1.0.0",
   "description":"",
-  "dependencies":{
-    "Brunozhon.github.io":"~1.1.1"
-  }
+  "publishConfig":{
+    "registry":"https://npm.pkg.github.com"
+  },
+  "liscence":"BSD-3",
+  "author":{
+    "name":"Bruno Zhong",
+    "email":"Bruno35.zhong@gmail.com",
+    "website":"https://brunozhon.github.io"
+  },
+  "homepage":"https://brunozhon.github.io/blog/"
 }
